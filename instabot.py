@@ -4,7 +4,7 @@ from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
 
 #create virtual environment
-access_token='2870641552.1021be5.11f103465fa64646bf973126251a4e33'
+access_token=''
 base_url='https://api.instagram.com/v1/' #url of instagram(global variable)
 
 #1
